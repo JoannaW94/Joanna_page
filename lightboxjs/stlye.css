@@ -1,0 +1,17 @@
+h1{
+    color:#e8ce09;
+    background:#4286f4;
+    text-align:center;
+    height:70px;
+    border:gray 5px solid;
+}
+section{
+    background-color: darkgoldenrod;
+border:#4286f4 solid;
+padding:50px;
+margin:40px;
+margin-top: 80px;
+}
+.粉綠色{
+    background-color:rgb(20, 202, 132);
+}
