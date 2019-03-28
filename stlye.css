@@ -1,13 +1,14 @@
 h1{
-    color:#3e2b92;
-    background:#f8f3df;
+    color:#021f1d;
+    background:rgb(232, 243, 239);
     text-align:center;
+    margin:50px;
     vertical-align: center;
-    height:70px;
+    height:50px;
     border:gray 5px solid;
 }
 section{
-    background-color: darkgoldenrod;
+    background-color: rgb(199, 241, 225);
 border:#4286f4 solid;
 padding:50px;
 margin:40px;
@@ -15,4 +16,7 @@ margin-top: 80px;
 }
 .粉綠色{
     background-color:rgb(199, 241, 225);
+}
+body{
+   background-color: rgb(16, 71, 64) ;
 }
