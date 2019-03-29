@@ -1,5 +1,5 @@
 h1{
-    color:#021f1d;
+    color:#043330;
     background:rgb(232, 243, 239);
     text-align:center;
     margin:50px;
@@ -13,6 +13,9 @@ border:#4286f4 solid;
 padding:50px;
 margin:40px;
 margin-top: 80px;
+}
+p{
+    font-family: Microsoft JhengHei,arial,helvetica,sans-serif;
 }
 .粉綠色{
     background-color:rgb(199, 241, 225);
